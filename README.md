@@ -1,6 +1,6 @@
-# Mon Premier Site Web
+#               VOTER ET R2CUP2REZ VOTRE STICKERS
 
-Ce projet est un exemple simple d'interface web hébergée sur GitHub Pages.
+Retrouver les différents bureaux de votes à proximité de chez vous sur la carte ci-dessous 
 
 ## Technologies utilisées
 - HTML5
