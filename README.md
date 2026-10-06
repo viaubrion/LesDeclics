@@ -2,10 +2,8 @@
 
 Retrouver les différents bureaux de votes à proximité de chez vous sur la carte ci-dessous 
 
-## Technologies utilisées
-- HTML5
-- CSS3
-- JavaScript (ES6)
+## carte des bureaux de vote
+[![Carte Interactive - Bureaux de Vote 2025](https://img.shields.io/badge/🗺️_Carte_Interactive-Bureaux_de_Vote_2025-0055A5?style=for-the-badge&logo=map&logoColor=white)](https://opendata.paris.fr/explore/embed/dataset/bureaux-de-vote-2025/map/?location=13,48.85822,2.35382&basemap=jawg.streets)
 
 ## Comment publier ce projet avec GitHub Pages :
 1. Créez un nouveau dépôt public sur GitHub.
