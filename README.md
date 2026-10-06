@@ -14,3 +14,4 @@ Ce projet est un exemple simple d'interface web hébergée sur GitHub Pages.
 4. Dans le menu de gauche, cliquez sur **Pages**.
 5. Dans la section **Build and deployment** / **Source**, choisissez la branche `main` (ou `master`) et le dossier `/ (root)`.
 6. Cliquez sur **Save**. Votre site sera accessible en quelques minutes à l'adresse indiquée !
+[👉 Cliquer ici pour visiter la page 🔗](https://votre-lien-ici.com)
